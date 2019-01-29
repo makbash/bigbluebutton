@@ -34,3 +34,4 @@ clients/flash/**/.gradle
 **/.idea/*
 *.iml
 *~
+/bigbluebutton-html5/nbproject/private/
