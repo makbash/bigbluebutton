@@ -8,10 +8,10 @@ public:
     listenOnlyMode: true
     forceListenOnly: false
     skipCheck: false
-    clientTitle: BigBlueButton
-    appName: BigBlueButton HTML5 Client
+    clientTitle: Digimeet
+    appName: Digimeet HTML5 Client
     bbbServerVersion: 2.2-dev
-    copyright: "©2019 BigBlueButton Inc."
+    copyright: "©2019 Digidea Inc."
     html5ClientBuild: HTML5_CLIENT_VERSION
     lockOnJoin: true
     basename: "/html5client"
@@ -81,8 +81,8 @@ public:
     enableExternalVideo: false
   kurento:
     wsUrl: HOST
-    chromeDefaultExtensionKey: akgoaoikmbmhcopjgakkcepdgdgkjfbc
-    chromeDefaultExtensionLink: https://chrome.google.com/webstore/detail/bigbluebutton-screenshare/akgoaoikmbmhcopjgakkcepdgdgkjfbc
+    chromeDefaultExtensionKey: lpgnfcjigbjpambhjepejgpgfbaijjed
+    chromeDefaultExtensionLink: https://chrome.google.com/webstore/detail/digimeet-screenshare-exte/lpgnfcjigbjpambhjepejgpgfbaijjed
     chromeExtensionKey: KEY
     chromeExtensionLink: LINK
     chromeScreenshareSources:
