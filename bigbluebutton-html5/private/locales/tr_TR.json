@@ -43,6 +43,8 @@
     "app.userList.userAriaLabel": "{0} {1} {2}  Durum {3}",
     "app.userList.menu.promoteUser.label": "Moderatör yap",
     "app.userList.menu.demoteUser.label": "İzleyici yap",
+    "app.userList.menu.unlockUser.label": "Kilidini aç {0}",
+    "app.userList.menu.lockUser.label": "Kilitle {0}",
     "app.userList.userOptions.manageUsersLabel": "Katılımcıları yönet",
     "app.userList.userOptions.muteAllLabel": "Tüm katılımcıları sustur",
     "app.userList.userOptions.muteAllDesc": "Toplantıdaki tüm katılımcıları susturur",
